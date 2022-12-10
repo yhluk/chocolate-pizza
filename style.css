@@ -1,0 +1,64 @@
+body {
+  margin: 3vw;
+  padding: 3vw;
+  width: 90%;
+  /* background-color: black; */
+}
+
+#choco{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  font-size: 1em;
+}
+#content {
+  padding: 3vw;
+  word-wrap: normal;
+}
+
+header{
+  display: flex;
+
+}
+
+
+#leftH{
+  float: left;
+}
+
+#delicious{
+  color:grey;
+}
+
+#rightH{
+  float:right;
+}
+
+/* #hr{
+
+}
+#choco */
+#choco-left{
+  float:left;
+}
+/* 
+#choco-text */
+#choco-right{
+  float: right;
+}
+#choco-pizza{
+  width: 100%;
+}
+/* #content{
+  width: auto;
+}
+#recipe
+#hr
+  
+#author */
+#copyright{
+  text-align: center;
+}
+
+#footer{
+  text-align: center;
+  margin: auto;
+}
